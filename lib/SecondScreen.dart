@@ -18,7 +18,7 @@ class _SecondScreenState extends State<SecondScreen> {
       style: optionStyle,
     ),
     Text(
-      'Index 1: Business',
+      'Index 1: Bussssssss',
       style: optionStyle,
     ),
     Text(
